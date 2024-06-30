@@ -1,0 +1,2 @@
+# PasswGen
+Password crafted quickly!
